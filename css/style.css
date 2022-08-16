@@ -1,0 +1,314 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    outline: none;
+}
+
+h1{
+    font-size: 50px;
+    font-family: Playfair Display;
+    color: #000000;
+    }
+
+    h2{
+        font-family: Poppins;
+        font-size: 35px;
+        color: #000000;
+    }
+
+h3{
+    font-size: 30px;
+    font-family: poppins;
+    color: #69B354;
+}
+
+
+
+h4{
+    font-size: 15px;
+    font-family: poppins;
+    color: #0B0A0A
+font-size: 15px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+h5{
+
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 52px;
+
+color: #000000;
+}
+
+h6
+{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+color: #000000;
+}
+
+p{
+    font-family: poppins;
+    font-size: 20px;
+    color: #636363;
+}
+
+
+.p1
+{
+    font-family: poppins;
+    font-size: 13px;
+    color: #636363;
+}
+
+
+.p2
+{
+font-family: Poppins;
+font-size: 15px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0.01em;
+text-align: left;
+
+}
+
+.p3
+{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 22px;
+color: #636363;
+}
+
+
+
+
+
+/*----header---*/
+
+img.brand 
+{
+    width: 50%;
+    margin-left: 142%;
+}
+
+
+
+
+/*---End-header---*/
+
+.FruitSalad {
+    background: #ffffff;
+    box-shadow: 0px 4px 50px rgb(0 0 0 / 10%);
+    border-radius: 14px;
+    width: 50%;
+    padding: 17px;
+    margin-top: -276px;
+    margin-left: 239px;
+    position: relative;
+}
+
+
+.slidertext
+{
+    margin-top: 170px;
+}
+
+
+img.sliderimage {
+    margin-top: 16%;
+    margin-left: -125px;
+    position: relative;
+}
+
+.foodimg {
+    background-color: #F7FBF6;
+    height: 105%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+
+
+body
+{
+    background-color: #FFFFFF;
+}
+
+.container1
+{
+    margin-top: 6%;
+    margin-left: 15.7%;
+}
+
+
+.foodsection
+{
+    background-color: #F7FBF6;
+}
+
+/*--buttons--*/
+
+button.btn.btn-secondary.Getstarted {
+    color: white;
+    background-color: #69B354;
+    border-color: white;
+    font-size: x-large;
+    width: 30%;
+    border-radius: 5px;
+}
+
+
+button.btn.btn-secondary.watchvideo {
+    color: #69B354;
+    background-color: #ffffff;
+    border-color: #69B354;
+    font-size: x-large;
+    width: 30%;
+    border-radius: 5px;
+}
+
+
+
+
+
+/*- end-buttons--*/
+
+
+.follower {
+    text-align: center;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 25px rgb(0 0 0 / 5%);
+    border-radius: 18px;
+    height: 232px;
+    padding: 109px;
+    margin-top: 6%;
+}
+
+.vr1 {
+    width: 2px;
+    height: 81px;
+    left: 506px;
+    top: 771px;
+    background: #69B354;
+    margin-top: -33%;
+}
+
+
+
+
+.goarrow
+{
+    color: #6c757d;
+    background-color: #ffffff;
+    border-radius: 50px;
+    box-shadow: 0px 4px 15px rgb(0 0 0 / 5%);
+    border: none;
+    margin-top: -28%;
+    margin-left: 83%;
+}
+
+.btn-secondary:hover {
+    color: #fff;
+    background-color: #69B354;
+    border-color: none;
+}
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 0px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0rem;
+}
+
+img.card-img-top {
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+
+.cardbg
+{
+    background-color: #F5F9F4;
+    margin-top: 2%;
+}
+
+.cardcontainer {
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+
+
+.headingcard
+{
+    margin-top: 47%;
+}
+
+
+
+.details {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+
+
+
+.col-md-4.img4 {
+    margin-top: -15%;
+}
+
+.col-md-4.img5 {
+    margin-top: -27%;
+}
+
+.col-md-8.img6 {
+    margin-top: -34.25%;
+}
+
+
+.col-md-8.img7 {
+    margin-top: 2%;
+}
+
+.col-md-4.img8 {
+    margin-top: 2%;
+}
+
+
+.container.blogs {
+    text-align: center;
+}
+
+.getapp {
+    margin-top: 6%;
+}
+
+.col-md-6.getapptext {
+    margin-top: 10%;
+}
