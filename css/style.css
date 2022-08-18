@@ -101,6 +101,13 @@ color: #636363;
 
 /*----header---*/
 
+.fixed-top {
+    position: fixed;
+
+    background-color: #fff;
+    box-shadow: 0px 4px 20px rgb(0 0 0 / 5%);
+}
+
 img.brand 
 {
     width: 50%;
@@ -114,6 +121,10 @@ img.brand
     border-radius: 5px;
 }
 
+
+.nav-link {
+    color: rgb(175 30 30 / 55%);
+}
 
 /*---End-header---*/
 
