@@ -27,12 +27,12 @@ h3{
 h4{
     font-size: 15px;
     font-family: poppins;
-    color: #0B0A0A
-font-size: 15px;
-font-weight: 600;
-line-height: 23px;
-letter-spacing: 0em;
-text-align: left;
+    color: #0B0A0A;
+    font-size:15px;
+   font-weight: 600;
+   line-height: 23px;
+   letter-spacing: 0em;
+   text-align: left;
 
 }
 
@@ -107,7 +107,12 @@ img.brand
     margin-left: 142%;
 }
 
-
+.searchform {
+    background-color: #fff;
+    border-color: #fff;
+    box-shadow: 0px 4px 35px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
 
 
 /*---End-header---*/
@@ -121,6 +126,10 @@ img.brand
     margin-top: -276px;
     margin-left: 239px;
     position: relative;
+}
+
+form.d-flex {
+    margin-right: 6%;
 }
 
 
@@ -199,7 +208,7 @@ button.btn.btn-secondary.watchvideo {
     box-shadow: 0px 4px 25px rgb(0 0 0 / 5%);
     border-radius: 18px;
     height: 232px;
-    padding: 109px;
+    padding: 80px;
     margin-top: 6%;
 }
 
@@ -209,7 +218,7 @@ button.btn.btn-secondary.watchvideo {
     left: 506px;
     top: 771px;
     background: #69B354;
-    margin-top: -33%;
+    margin-top: -24%;
 }
 
 
@@ -363,6 +372,12 @@ img.card-img-top {
 }
 
 
+.footer {
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+
 .footerlogo
 {
     width: 30%;
@@ -371,4 +386,9 @@ img.card-img-top {
 .footer ul li a {
     text-decoration: none;
     color: #636363;
+}
+
+
+.footer ul li i {
+    color: #69B354;
 }
