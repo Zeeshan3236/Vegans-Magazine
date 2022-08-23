@@ -59,6 +59,15 @@ line-height: 30px;
 color: #000000;
 }
 
+.h7
+{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+}
+
 p{
     font-family: poppins;
     font-size: 20px;
@@ -104,7 +113,7 @@ color: #636363;
 .fixed-top {
     position: fixed;
 
-    background-color: #ffffff;
+    background-color: #F5F9F4;
     box-shadow: 0px 4px 20px rgb(0 0 0 / 5%);
 }
 
@@ -432,3 +441,45 @@ img.card-img-top {
 
 
 /*--recipes end---*/
+
+
+/*---recipes-details--*/
+
+.cookingtime
+{
+background: #FFFFFF;
+box-shadow: 0px 4px 35px rgba(0, 0, 0, 0.1);
+border-radius: 7px;
+padding: 4%;
+}
+
+
+.aboutrecipes
+{
+background: #FFFFFF;
+box-shadow: 0px 4px 35px rgba(0, 0, 0, 0.1);
+border-radius: 7px;
+padding: 4%;
+margin-top: 5%;
+}
+
+
+.comments
+{
+background: #FFFFFF;
+border: 1px solid #BCBCBC;
+border-radius: 7px;
+height: 192px;
+}
+
+
+.watchvideo {
+    color: #69B354;
+    background-color: #ffffff;
+    border-color: #69B354;
+    font-size: x-large;
+    width: 30%;
+    border-radius: 5px;
+}
+
+/*--endrecipes-details end--*/
