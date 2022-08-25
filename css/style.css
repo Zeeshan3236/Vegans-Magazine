@@ -473,13 +473,40 @@ height: 192px;
 }
 
 
-.watchvideo {
+.submit
+{
+    color: #fff;
+    background-color: #69B354;
+    border-color: #69B354;
+    font-size: x-large;
+    width: 170px;
+    border-radius: 7px;
+
+
+}
+
+.cancel {
     color: #69B354;
     background-color: #ffffff;
     border-color: #69B354;
     font-size: x-large;
-    width: 30%;
-    border-radius: 5px;
+    width: 170px;
+    border-radius: 7px;
+}
+
+
+.commentbutton
+{
+    margin-top: 22px;
+}
+
+
+.btn-light {
+    color: #69B354;
+    background-color: #C4E1BC;
+    border-color: #f8f9fa;
+    font-weight: 500;
+    border-radius: 33px;
 }
 
 /*--endrecipes-details end--*/
